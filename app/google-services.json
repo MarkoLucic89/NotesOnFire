@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383904884028",
+    "project_id": "notesonfire-cc211",
+    "storage_bucket": "notesonfire-cc211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383904884028:android:2a013f60dd48f8c85fea39",
+        "android_client_info": {
+          "package_name": "com.example.notesonfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383904884028-12qdmacmg88s8srtqnkjav1qiiefeej3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybramNPgKbgyJ7TjQRr4QsVbBxxYFXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383904884028-12qdmacmg88s8srtqnkjav1qiiefeej3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
